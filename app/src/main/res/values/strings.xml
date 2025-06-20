@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WinQuote</string>
+    <string name="share_chooser_title">Share quote via</string>
+    <string name="no_saved_quotes">No saved quotes yet!\nStart saving your favorites.</string>
+</resources>
